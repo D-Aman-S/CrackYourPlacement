@@ -1,0 +1,3 @@
+# MaxWater
+I couldnt formulate an approach for this, so took a help of the hint section. Basically we fix 2 pointers left and rightmost, and each time calculate the area. After that we always move the pointer which is lower in height. Thats because, area = height * width.
+no width is always decreasing but if we pick the smaller height to fix, it will always result in answers less than or smaller than this height, so we fix the bigger height and move around the smaller ope.

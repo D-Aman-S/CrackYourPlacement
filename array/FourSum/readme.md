@@ -1,0 +1,2 @@
+# FourSum
+I followed the similar solution to 3sum problem, just at second loop added the similar check as the first loop and the rets of the solution remained the same. Just I had to take note of integer overflow errors and had to take long long
